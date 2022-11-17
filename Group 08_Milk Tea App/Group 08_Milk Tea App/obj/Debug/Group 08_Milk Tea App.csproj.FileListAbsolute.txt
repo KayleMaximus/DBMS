@@ -1,0 +1,58 @@
+D:\DBMS\Group 08_Milk Tea App\Group 08_Milk Tea App\bin\Debug\Group 08_Milk Tea App.exe.config
+D:\DBMS\Group 08_Milk Tea App\Group 08_Milk Tea App\bin\Debug\Group 08_Milk Tea App.exe
+D:\DBMS\Group 08_Milk Tea App\Group 08_Milk Tea App\bin\Debug\Group 08_Milk Tea App.pdb
+D:\DBMS\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group 08_Milk Tea App.csprojAssemblyReference.cache
+D:\DBMS\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group_08_Milk_Tea_App.Properties.Resources.resources
+D:\DBMS\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group 08_Milk Tea App.csproj.GenerateResource.cache
+D:\DBMS\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group 08_Milk Tea App.csproj.CoreCompileInputs.cache
+D:\DBMS\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group 08_Milk Tea App.exe
+D:\DBMS\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group 08_Milk Tea App.pdb
+D:\DBMS\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group_08_Milk_Tea_App.frm_start.resources
+D:\DBMS\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group_08_Milk_Tea_App.frm_login.resources
+D:\DBMS\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group_08_Milk_Tea_App.frm_home.resources
+E:\KNOWLEDGE\Year03\DBMS\Project\Group 08_Milk Tea App\Group 08_Milk Tea App\bin\Debug\Group 08_Milk Tea App.exe.config
+E:\KNOWLEDGE\Year03\DBMS\Project\Group 08_Milk Tea App\Group 08_Milk Tea App\bin\Debug\Group 08_Milk Tea App.exe
+E:\KNOWLEDGE\Year03\DBMS\Project\Group 08_Milk Tea App\Group 08_Milk Tea App\bin\Debug\Group 08_Milk Tea App.pdb
+E:\KNOWLEDGE\Year03\DBMS\Project\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group 08_Milk Tea App.csproj.AssemblyReference.cache
+E:\KNOWLEDGE\Year03\DBMS\Project\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group_08_Milk_Tea_App.frm_start.resources
+E:\KNOWLEDGE\Year03\DBMS\Project\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group_08_Milk_Tea_App.frm_home.resources
+E:\KNOWLEDGE\Year03\DBMS\Project\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group_08_Milk_Tea_App.frm_login.resources
+E:\KNOWLEDGE\Year03\DBMS\Project\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group_08_Milk_Tea_App.Properties.Resources.resources
+E:\KNOWLEDGE\Year03\DBMS\Project\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group 08_Milk Tea App.csproj.GenerateResource.cache
+E:\KNOWLEDGE\Year03\DBMS\Project\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group 08_Milk Tea App.csproj.CoreCompileInputs.cache
+E:\KNOWLEDGE\Year03\DBMS\Project\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group 08_Milk Tea App.exe
+E:\KNOWLEDGE\Year03\DBMS\Project\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group 08_Milk Tea App.pdb
+E:\KNOWLEDGE\Year03\DBMS\ProjectClone\Group 08_Milk Tea App\Group 08_Milk Tea App\bin\Debug\Group 08_Milk Tea App.exe.config
+E:\KNOWLEDGE\Year03\DBMS\ProjectClone\Group 08_Milk Tea App\Group 08_Milk Tea App\bin\Debug\Group 08_Milk Tea App.exe
+E:\KNOWLEDGE\Year03\DBMS\ProjectClone\Group 08_Milk Tea App\Group 08_Milk Tea App\bin\Debug\Group 08_Milk Tea App.pdb
+E:\KNOWLEDGE\Year03\DBMS\ProjectClone\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group 08_Milk Tea App.csproj.AssemblyReference.cache
+E:\KNOWLEDGE\Year03\DBMS\ProjectClone\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group_08_Milk_Tea_App.frm_start.resources
+E:\KNOWLEDGE\Year03\DBMS\ProjectClone\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group_08_Milk_Tea_App.frm_home.resources
+E:\KNOWLEDGE\Year03\DBMS\ProjectClone\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group_08_Milk_Tea_App.frm_login.resources
+E:\KNOWLEDGE\Year03\DBMS\ProjectClone\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group_08_Milk_Tea_App.Properties.Resources.resources
+E:\KNOWLEDGE\Year03\DBMS\ProjectClone\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group 08_Milk Tea App.csproj.GenerateResource.cache
+E:\KNOWLEDGE\Year03\DBMS\ProjectClone\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group 08_Milk Tea App.csproj.CoreCompileInputs.cache
+E:\KNOWLEDGE\Year03\DBMS\ProjectClone\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group 08_Milk Tea App.exe
+E:\KNOWLEDGE\Year03\DBMS\ProjectClone\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group 08_Milk Tea App.pdb
+E:\KNOWLEDGE\Year03\DBMS\ProjectClone\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group_08_Milk_Tea_App.Utility.statisticsFom.resources
+E:\KNOWLEDGE\Year03\DBMS\ProjectClone\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group_08_Milk_Tea_App.Utility.AddStaffForm.resources
+E:\KNOWLEDGE\Year03\DBMS\ProjectClone\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group_08_Milk_Tea_App.Utility.updateInfoForm.resources
+E:\KNOWLEDGE\Year03\DBMS\ProjectClone\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group_08_Milk_Tea_App.Utility.Storage.resources
+E:\KNOWLEDGE\Year03\DBMS\ProjectClone\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group_08_Milk_Tea_App.Utility.CatagoryForm.resources
+E:\KNOWLEDGE\Year03\DBMS\FinalPrjClone\Group 08_Milk Tea App\Group 08_Milk Tea App\bin\Debug\Group 08_Milk Tea App.exe.config
+E:\KNOWLEDGE\Year03\DBMS\FinalPrjClone\Group 08_Milk Tea App\Group 08_Milk Tea App\bin\Debug\Group 08_Milk Tea App.exe
+E:\KNOWLEDGE\Year03\DBMS\FinalPrjClone\Group 08_Milk Tea App\Group 08_Milk Tea App\bin\Debug\Group 08_Milk Tea App.pdb
+E:\KNOWLEDGE\Year03\DBMS\FinalPrjClone\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group 08_Milk Tea App.csproj.AssemblyReference.cache
+E:\KNOWLEDGE\Year03\DBMS\FinalPrjClone\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group_08_Milk_Tea_App.frm_start.resources
+E:\KNOWLEDGE\Year03\DBMS\FinalPrjClone\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group_08_Milk_Tea_App.frm_home.resources
+E:\KNOWLEDGE\Year03\DBMS\FinalPrjClone\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group_08_Milk_Tea_App.frm_login.resources
+E:\KNOWLEDGE\Year03\DBMS\FinalPrjClone\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group_08_Milk_Tea_App.Properties.Resources.resources
+E:\KNOWLEDGE\Year03\DBMS\FinalPrjClone\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group_08_Milk_Tea_App.Utility.AddStaffForm.resources
+E:\KNOWLEDGE\Year03\DBMS\FinalPrjClone\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group_08_Milk_Tea_App.Utility.CatagoryForm.resources
+E:\KNOWLEDGE\Year03\DBMS\FinalPrjClone\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group_08_Milk_Tea_App.Utility.statisticsFom.resources
+E:\KNOWLEDGE\Year03\DBMS\FinalPrjClone\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group_08_Milk_Tea_App.Utility.Storage.resources
+E:\KNOWLEDGE\Year03\DBMS\FinalPrjClone\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group_08_Milk_Tea_App.Utility.updateInfoForm.resources
+E:\KNOWLEDGE\Year03\DBMS\FinalPrjClone\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group 08_Milk Tea App.csproj.GenerateResource.cache
+E:\KNOWLEDGE\Year03\DBMS\FinalPrjClone\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group 08_Milk Tea App.csproj.CoreCompileInputs.cache
+E:\KNOWLEDGE\Year03\DBMS\FinalPrjClone\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group 08_Milk Tea App.exe
+E:\KNOWLEDGE\Year03\DBMS\FinalPrjClone\Group 08_Milk Tea App\Group 08_Milk Tea App\obj\Debug\Group 08_Milk Tea App.pdb
